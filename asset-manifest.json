@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Covid19LiveCasesFromAPI-In-React/static/css/main.a95fd7c2.chunk.css",
+    "main.js": "/Covid19LiveCasesFromAPI-In-React/static/js/main.885e247b.chunk.js",
+    "main.js.map": "/Covid19LiveCasesFromAPI-In-React/static/js/main.885e247b.chunk.js.map",
+    "runtime-main.js": "/Covid19LiveCasesFromAPI-In-React/static/js/runtime-main.8ded37cd.js",
+    "runtime-main.js.map": "/Covid19LiveCasesFromAPI-In-React/static/js/runtime-main.8ded37cd.js.map",
+    "static/js/2.bda9b8d3.chunk.js": "/Covid19LiveCasesFromAPI-In-React/static/js/2.bda9b8d3.chunk.js",
+    "static/js/2.bda9b8d3.chunk.js.map": "/Covid19LiveCasesFromAPI-In-React/static/js/2.bda9b8d3.chunk.js.map",
+    "index.html": "/Covid19LiveCasesFromAPI-In-React/index.html",
+    "static/css/main.a95fd7c2.chunk.css.map": "/Covid19LiveCasesFromAPI-In-React/static/css/main.a95fd7c2.chunk.css.map",
+    "static/js/2.bda9b8d3.chunk.js.LICENSE.txt": "/Covid19LiveCasesFromAPI-In-React/static/js/2.bda9b8d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ded37cd.js",
+    "static/js/2.bda9b8d3.chunk.js",
+    "static/css/main.a95fd7c2.chunk.css",
+    "static/js/main.885e247b.chunk.js"
+  ]
+}
